@@ -8,9 +8,9 @@
 • I have a passion for iOS development and all things apple. 💻 <br/>
 
 ## Skills
-Git | Xcode | Swift | Objective-C | UI | UI Testing | Unit Testing 
-| Firebase | JSON | Parsing/Serialization | REST | API | CocoaPods 
-| Carthage | MVC | Core Data | Team Collaboration | SwiftUI | XCTest 
+Git | Xcode | Swift | Objective-C | UI | UI Testing | Unit Testing <br/>
+| Firebase | JSON | Parsing/Serialization | REST | API | CocoaPods <br/>
+| Carthage | MVC | Core Data | Team Collaboration | SwiftUI | XCTest <br/>
 | Brazilian Portuguese
 
 - 📫 How to reach me: kelson99hartle@icloud.com
