@@ -1,4 +1,4 @@
-# Hello, welcome to my github, please take a look around.
+# Hello, welcome to my github, please take a look around! 😄
 
 ## About
 👋 Hi I'm Kelson! I am currently an iOS developer at FITSW.
