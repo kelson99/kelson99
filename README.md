@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello, welcome to my github, please take a look around.
 
-<!--
-**kelson99/kelson99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
+👋 Hi I'm Kelson!
 
-Here are some ideas to get you started:
+• I am a hard worker and I am always willing to try new things. 💪
+• I love soccer and love to play and watch it everyday. ⚽️
+• I have a passion for iOS development and all things apple. 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+Git | Xcode | Swift | Objective-C | UI | UI Testing | Unit Testing 
+| Firebase | JSON | Parsing/Serialization | REST | API | CocoaPods 
+| Carthage | MVC | Core Data | Team Collaboration | SwiftUI | XCTest 
+| Brazilian Portuguese
+
+- 📫 How to reach me: kelson99hartle@icloud.com
+
