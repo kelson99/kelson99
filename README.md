@@ -1,7 +1,7 @@
 # Hello, welcome to my github, please take a look around! 😄
 
 ## About
-👋 Hi I'm Kelson! I am currently an iOS developer at FITSW.
+👋 Hi I'm Kelson! I am currently an iOS software engineer at Bank of America.
 
 • I am a hard worker and I am always willing to try new things. 💪 <br/>
 • I love soccer and love to play and watch it everyday. ⚽️ <br/>
