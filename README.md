@@ -1,4 +1,4 @@
-# Hello, welcome to my github, please take a look around! 😄
+# Hello, welcome to my github 😄
 
 ## About
 👋 Hi I'm Kelson! I am currently an iOS software engineer at Bank of America.
